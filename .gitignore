@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Docker
+*.tar
